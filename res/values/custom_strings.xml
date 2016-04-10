@@ -288,4 +288,11 @@
     <string name="dev_advanced_settings_summary">For the experienced user</string>
     <string name="dev_advanced_already_enabled">No need, advanced settings are enabled by default.</string>
 
+    <!-- Doze battery options -->
+    <string name="ambient_display_show_battery_cat">Battery Status</string>
+    <string name="ambient_display_show_battery_icon">Enable</string>
+    <string name="ambient_display_show_battery_icon_summary">Show battery indicator during pulse</string>
+    <string name="ambient_display_show_battery_percent">Percent</string>
+    <string name="ambient_display_show_battery_percent_summary">Show battery percent during pulse</string>
+
 </resources>
