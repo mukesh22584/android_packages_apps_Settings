@@ -45,6 +45,12 @@
         android:action="android.intent.action.VIEW"
         android:data="https://plus.google.com/u/0/105488358948058293922" />
     </Preference>
-   
+    <Preference
+        android:title="@string/liquid_about_dev3_title"
+        android:summary="@string/liquid_about_dev3_summary" >
+    <intent
+        android:action="android.intent.action.VIEW"
+        android:data="https://plus.google.com/u/0/113040498375920371845" />
+    </Preference>
     </PreferenceCategory>
 </PreferenceScreen>
